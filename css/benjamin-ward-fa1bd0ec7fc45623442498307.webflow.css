@@ -690,6 +690,10 @@ blockquote {
   padding-bottom: 50px;
 }
 
+.film-container {
+  padding-bottom: 50px;
+}
+
 .body {
   font-size: 14px;
 }
@@ -1053,10 +1057,6 @@ blockquote {
 
   .hero-content.about-hero-content {
     padding-right: 20px;
-  }
-
-  .hero-button {
-    width: 100%;
   }
 
   .books-display {
